@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-label="Maillon Andrade — desenvolvedor back-end em formação">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090609"/><stop offset="0.56" stop-color="#13070d"/><stop offset="1" stop-color="#0d081a"/>
+    </linearGradient>
+    <radialGradient id="red" cx="27%" cy="47%" r="60%"><stop offset="0" stop-color="#ec1c3a" stop-opacity=".35"/><stop offset="1" stop-color="#ec1c3a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="purple" cx="87%" cy="66%" r="45%"><stop offset="0" stop-color="#7e3cff" stop-opacity=".24"/><stop offset="1" stop-color="#7e3cff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3b53"/><stop offset="1" stop-color="#9c5cff"/></linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="1280" height="390" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="390" fill="url(#background)"/>
+    <rect width="1280" height="390" fill="url(#red)"/>
+    <rect width="1280" height="390" fill="url(#purple)"/>
+    <g opacity=".19" stroke="#fa8a9b" stroke-width="1">
+      <path d="M-20 331 710 -20M-20 369 800 -20M-20 408 900 -20M-20 447 1000 -20"/>
+    </g>
+    <g opacity=".2" stroke="#a78bfa" stroke-width="1">
+      <path d="M1030 0v390M1090 0v390M1150 0v390M1210 0v390M900 72h380M900 132h380M900 192h380M900 252h380M900 312h380"/>
+    </g>
+    <path d="M52 43 H265" stroke="url(#stroke)" stroke-width="4" stroke-linecap="round"/>
+    <rect x="55" y="66" width="214" height="32" rx="16" fill="#e52642" fill-opacity=".12" stroke="#f3445e" stroke-opacity=".55"/>
+    <text x="75" y="87" fill="#ff8a9b" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">BACK-END / DEVELOPER</text>
+    <text x="52" y="179" fill="#fff7f8" font-family="Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">MAILLON</text>
+    <text x="52" y="252" fill="#ff455c" font-family="Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">ANDRADE</text>
+    <text x="55" y="296" fill="#e7d9e1" font-family="Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="1.1">JavaScript · Node.js · APIs REST · Java</text>
+    <rect x="55" y="321" width="409" height="38" rx="10" fill="#160c17" stroke="#ff3b53" stroke-opacity=".6"/>
+    <text x="73" y="346" fill="#faf0f4" font-family="Arial,sans-serif" font-size="14" font-weight="600">Construindo soluções. Aprendendo na prática.</text>
+    <g transform="translate(910,82)">
+      <circle cx="130" cy="108" r="118" fill="#15091c" stroke="#ff3851" stroke-width="2" stroke-opacity=".8"/>
+      <circle cx="130" cy="108" r="93" fill="none" stroke="#8546c6" stroke-width="2" stroke-opacity=".7" stroke-dasharray="7 10"/>
+      <circle cx="130" cy="108" r="69" fill="#100915" stroke="#e74865" stroke-opacity=".45"/>
+      <text x="130" y="123" font-family="Consolas, Menlo, monospace" font-size="48" text-anchor="middle" fill="#ff5d73" font-weight="700">&lt;/&gt;</text>
+      <circle cx="42" cy="37" r="6" fill="#ff3851"/><circle cx="219" cy="171" r="6" fill="#9b5cff"/>
+    </g>
+    <rect x="0.8" y="0.8" width="1278.4" height="388.4" rx="21" fill="none" stroke="#7c263d" stroke-opacity=".7" stroke-width="1.6"/>
+  </g>
+</svg>
